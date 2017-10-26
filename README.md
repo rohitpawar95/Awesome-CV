@@ -96,4 +96,15 @@ You are free to take my `.tex` file and modify it to create your own resume. Ple
 
 If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
 
-Good luck!
+## Steps for windows 10 
+Part 1 Installation
+1. Download textlive2017.iso
+2. mount iso
+3. run install-tl-windows.bat as admin
+4. wait till it installs
+
+Part 2 
+1. Install fontawsome on windows
+2. copy font folder into examples
+3. copy sty and cls file into examples
+
