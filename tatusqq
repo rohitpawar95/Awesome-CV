@@ -1,0 +1,139 @@
+[1mdiff --git a/examples/resume-twocolumn.pdf b/examples/resume-twocolumn.pdf[m
+[1mindex d942e08..bccc1d7 100644[m
+[1m--- a/examples/resume-twocolumn.pdf[m
+[1m+++ b/examples/resume-twocolumn.pdf[m
+[36m@@ -12,44 +12,49 @@[m [mon Recommendation, ChatBot & Face Recognition Systems.[m
+ Prior to Mindstix, I was working with Coriolis Technologies Pvt Ltd for 2    Optimization by deeplearning.ai on Coursera[m
+ years as Machine Learning Engineer.                                        • Structuring Machine Learning Projects by deeplearning.ai on Coursera[m
+                                                                            • Artificial Intelligence A-Z Learn How To Build An AI on Udemy[m
+[31m-Education                                               Pune, India        • Deep Learning A-Z Hands-On Artificial Neural Networks on Udemy[m
+[31m-                                              Aug 2015 - Feb. 2016         • Practical Deep Learning with PyTorch on Udemy[m
+[32m+[m[32mEducation                                                Pune, India       • Deep Learning A-Z Hands-On Artificial Neural Networks on Udemy[m
+[32m+[m[32m                                               Aug 2015 - Feb. 2016        • Practical Deep Learning with PyTorch on Udemy[m
+ Diploma in Big Data Analyatics                                             • Machine Learning A-Z Hands-On Python & R In Data Science on Udemy[m
+[31m-CDAC-ACTS PUNE                                          Pune, India        • The Complete Android Kotlin Developer Course on Udemy[m
+[32m+[m[32mCDAC-ACTS PUNE                                           Pune, India       • The Complete Android Kotlin Developer Course on Udemy[m
+ • Achived grade A with 70.00%                 Aug. 2011 - May. 2014        • Complete iOS 11 Machine Learning Masterclass Course on Udemy[m
+                                                                            • Deep Learning and NLP A-Z™: How to create a ChatBot on Udemy[m
+[31m-BE inElectronics &                                                         • Complete Guide to TensorFlow for Deep Learning with Python on Udemy[m
+[31m-Telecommunication                                                          • CWorkshop in Probability and Statistics on Udemy[m
+[32m+[m[32mBE inElectronics &                                   Mumbai, India         • Complete Guide to TensorFlow for Deep Learning with Python on Udemy[m
+[32m+[m[32mTelecommunication                             May. 2008 - Aug. 2011        • CWorkshop in Probability and Statistics on Udemy[m
+ UNIVERSITY OF PUNE                                                         • Building Practical Recommendation Engines on Udemy[m
+ • Achived Distinction with 69.33%                                          • ChatBots: Messenger ChatBot - DialogFlow and nodejs on Udemy[m
+                                                                            • Introduction to Recommender Systems: Non-Personalized and Content-[m
+[31m-[m
+[31m-                                                                             Based on Coursera[m
+[31m-                                                                           • Nearest Neighbor Collaborative Filtering on Coursera[m
+[31m-                                                                           • Recommender Systems: Evaluation and Metrics on Coursera[m
+[32m+[m[32mDiploma in Electronics &[m
+[32m+[m[32mCommunication                                                                Based on Coursera[m
+[32m+[m[32mMSBTE, MUMBAI                                                              • Nearest Neighbor Collaborative Filtering on Coursera[m
+[32m+[m[32m• Achived Distinction with 85.38%                                          • Recommender Systems: Evaluation and Metrics on Coursera[m
+                                                                            • Matrix Factorization and Advanced Techniques on Coursera[m
+ [m
+[31m-Diploma in Electronics &                             Mumbai, India         Machine Learning Section[m
+[31m-Communication                                 May. 2008 - Aug. 2011[m
+[31m-MSBTE, MUMBAI[m
+[31m-• Achived Distinction with 85.38%[m
+[32m+[m[32m                                                                           Machine Learning Section[m
+[32m+[m
+[32m+[m[32m                                                                           Product Learning ChatBot                      Mindstix Software Labs Project[m
+[32m+[m
+[32m+[m[32m                                                                           TENSORFLOW, PYTHON[m
+[32m+[m
+[32m+[m[32m                                                                           • This bot helps user to learn about certain products[m
+ [m
+[31m-                                                                           Neural Style Transfer App                            Open Source Contribution[m
+[32m+[m[32m                                                                           Neural Style Transfer App                              Open Source Contribution[m
+ [m
+                                                                            CNN, PYTHON, KIVY[m
+ [m
+ Work Experience & Responsibility                                           • This app is a TensorFlow implementation of the paper A Neural Algorithm of[m
+[31m-                                                                             Artistic Style by Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge.[m
+[31m-Mindstix Software Labs                                  Pune, India[m
+[31m-                                              Feb. 2018 - PRESENT          • The paper presents an algorithm for combining the content of one image with[m
+[31m-DATA SCIENTIST                                                               the style of another image using convolutional neural network.[m
+ [m
+[31m-• Recommendation Systems for Retail Business                               Prodcutivity ChatBot                                 Open Source Contribution[m
+[32m+[m[32m                                                                           Artistic Style by Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge.[m
+[32m+[m
+[32m+[m[32m                                                                           • The paper presents an algorithm for combining the content of one image with[m
+[32m+[m
+[32m+[m[32mMindstix Software Labs                                  Pune, India        the style of another image using convolutional neural network.[m
+[32m+[m[32m                                              Feb. 2018 - PRESENT[m
+[32m+[m[32mDATA SCIENTIST                                                             Prodcutivity ChatBot                                   Open Source Contribution[m
+[32m+[m
+[32m+[m[32m• Recommendation Systems for Retail Business                               NLU, FLASK, SLACK[m
+ • ChatBot Framework[m
+[31m-• Face Recognition Systems                                                 NLU, FLASK, SLACK[m
+[32m+[m[32m• Face Recognition Systems                                                 • Based on given input this bot extracts intent & slots using NLU[m
+ • Algorithm Design[m
+[31m-                                                                           • Based on given input this bot extracts intent & slots using NLU[m
+[31m-[m
+                                                                            • When each intent is detected related web service is executed[m
+ [m
+                                                                            Chatbot Framework                             Mindstix Software Labs Project[m
+[36m@@ -60,7 +65,7 @@[m [mCoriolis Technologies Pvt Ltd                              Pune, India     • T[m
+ [m
+ MEMBER OF TECHNICAL STAFF                     Mar. 2016 - Feb. 2018        • End to End integation of bot with with REST API’s[m
+ [m
+[31m-• Developer & Scrum Master for Cloud Team                                  Face Recognition Library                             Open Source Contribution[m
+[32m+[m[32m• Developer & Scrum Master for Cloud Team                                  Face Recognition Library                               Open Source Contribution[m
+ • Rails Backend Development for Orchestration tool[m
+ • Development of Ansible, Chef and Puppet configuration managers           FACENET, PYTHON[m
+ • License Plate Recognition, Face Recognition[m
+[36m@@ -90,7 +95,7 @@[m [mMachine Learning       Tensorflow, Keras, Pytorch, OpenAI[m
+ [m
+                                                                            • TensorFlow based implementaion of SVD[m
+ [m
+[31m-JULY 7, 2018                                               ISHWAR SAWALE · RÉSUMÉ                                                                1[m
+[32m+[m[32mAUGUST 6, 2018                                             ISHWAR SAWALE · RÉSUMÉ                                                                     1[m
+ Face Recognition System             Mindstix Software Labs Project Orchestration Chef, Puppet, Ansible                                       Client Project[m
+ [m
+ FACENET, DLIB, PYTHON                                                                 RAILS, MONGO, CHEF, PUPPET, ANSIBLE,[m
+[36m@@ -182,5 +187,5 @@[m [mData Migration Scripts                                Client Project[m
+ PYTHON, LDAP, ORACLE DB[m
+ • Data Migration From Oracle DB to LDAP using Python[m
+ [m
+[31m-JULY 7, 2018                                          ISHWAR SAWALE · RÉSUMÉ                                                                 2[m
+[32m+[m[32mAUGUST 6, 2018                                        ISHWAR SAWALE · RÉSUMÉ                                                                 2[m
+ [m
+\ No newline at end of file[m
+[1mdiff --git a/examples/resume/work_details_code.tex b/examples/resume/work_details_code.tex[m
+[1mindex f4c85c0..ea818c0 100644[m
+[1m--- a/examples/resume/work_details_code.tex[m
+[1m+++ b/examples/resume/work_details_code.tex[m
+[36m@@ -27,8 +27,8 @@[m
+   \cventry[m
+     {Python, OpenCV, Image Processing} % Job title[m
+     {True Skin Tone Color Detection} % Organization[m
+[31m-    {Client Project} % Location[m
+[31m-    {} % Date(s)[m
+[32m+[m[32m    {Mindstix Software Labs Project} % Location[m
+[32m+[m[32m    {Current Project} % Date(s)[m
+     {[m
+       \begin{cvitems} % Description(s) of tasks/responsibilities[m
+         \item {Custom Alogrithms to get true skin color from image, independent illumination conditions}[m
+[1mdiff --git a/examples/resume/work_details_ml.tex b/examples/resume/work_details_ml.tex[m
+[1mindex d9dbfcc..2c7b2d6 100644[m
+[1m--- a/examples/resume/work_details_ml.tex[m
+[1m+++ b/examples/resume/work_details_ml.tex[m
+[36m@@ -25,6 +25,17 @@[m
+ [m
+ %---------------------------------------------------------[m
+   \cventry[m
+[32m+[m[32m    {Tensorflow, Python} % Job title[m
+[32m+[m[32m    {Product Learning ChatBot} % Organization[m
+[32m+[m[32m    {Mindstix Software Labs Project} % Location[m
+[32m+[m[32m    {Current Project} % Date(s)[m
+[32m+[m[32m    {[m
+[32m+[m[32m      \begin{cvitems} % Description(s) of tasks/responsibilities[m
+[32m+[m[32m        \item {This bot helps user to learn about certain products}[m
+[32m+[m[32m        \item {User can ask questions specific product /& reply to user is fetched in real-time from database}[m
+[32m+[m[32m      \end{cvitems}[m
+[32m+[m[32m    }[m
+[32m+[m[32m  \cventry[m
+     {CNN, Python, Kivy} % Job title[m
+     {Neural Style Transfer App} % Organization[m
+     {Open Source Contribution} % Location[m
